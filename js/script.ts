@@ -114,7 +114,7 @@ for(let indexBooks of books) {
 				<span class="glyphicon glyphicon-star"></span>
 				<span class="glyphicon glyphicon-star"></span>
 				<span class="glyphicon glyphicon-star"></span>
-				<span class="small">(980)</span>
+				<span class="small">(90)</span>
 			</div>
 		</div>
 	`
@@ -153,7 +153,7 @@ for(let indexCd of cd) {
 				<span class="glyphicon glyphicon-star"></span>
 				<span class="glyphicon glyphicon-star"></span>
 				<span class="glyphicon glyphicon-star"></span>
-				<span class="small">(980)</span>
+				<span class="small">(180)</span>
 			</div>
 		</div>
 	`
@@ -192,7 +192,7 @@ for(let indexDvd of dvd) {
 				<span class="glyphicon glyphicon-star"></span>
 				<span class="glyphicon glyphicon-star"></span>
 				<span class="glyphicon glyphicon-star"></span>
-				<span class="small">(980)</span>
+				<span class="small">(1277)</span>
 			</div>
 		</div>
 	`
@@ -231,7 +231,7 @@ for(let indexComic of comic) {
 				<span class="glyphicon glyphicon-star"></span>
 				<span class="glyphicon glyphicon-star"></span>
 				<span class="glyphicon glyphicon-star"></span>
-				<span class="small">(980)</span>
+				<span class="small">(240)</span>
 			</div>
 		</div>
 	`
@@ -290,7 +290,7 @@ submit.onclick = function getData() {
 						<span class="glyphicon glyphicon-star"></span>
 						<span class="glyphicon glyphicon-star"></span>
 						<span class="glyphicon glyphicon-star"></span>
-						<span class="small">(980)</span>
+						<span class="small">(3580)</span>
 					</div>
 				</div>
 			`
@@ -334,7 +334,7 @@ submit.onclick = function getData() {
 						<span class="glyphicon glyphicon-star"></span>
 						<span class="glyphicon glyphicon-star"></span>
 						<span class="glyphicon glyphicon-star"></span>
-						<span class="small">(980)</span>
+						<span class="small">(962)</span>
 					</div>
 				</div>
 			`
@@ -370,7 +370,7 @@ submit.onclick = function getData() {
 				<span class="glyphicon glyphicon-star"></span>
 				<span class="glyphicon glyphicon-star"></span>
 				<span class="glyphicon glyphicon-star"></span>
-				<span class="small">(980)</span>
+				<span class="small">(124)</span>
 			</div>
 		</div>
 	`
@@ -405,7 +405,7 @@ submit.onclick = function getData() {
 				<span class="glyphicon glyphicon-star"></span>
 				<span class="glyphicon glyphicon-star"></span>
 				<span class="glyphicon glyphicon-star"></span>
-				<span class="small">(980)</span>
+				<span class="small">(500)</span>
 			</div>
 		</div>
 	`
