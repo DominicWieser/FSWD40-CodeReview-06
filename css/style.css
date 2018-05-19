@@ -1,0 +1,28 @@
+.row:last-of-type {
+  border-bottom: none; }
+
+.row {
+  overflow: hidden;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 50px; }
+  .row [class*="col-"]:first-of-type {
+    border-left: none; }
+  .row [class*="col-"] {
+    border-left: 1px solid #ccc; }
+    .row [class*="col-"] img {
+      height: 200px; }
+
+.align {
+  text-align: center;
+  padding: 5px 0; }
+
+.gray {
+  color: #aaa; }
+
+.small {
+  color: #555; }
+
+#mainForm {
+  margin-top: 50px; }
+
+/*# sourceMappingURL=style.css.map */
